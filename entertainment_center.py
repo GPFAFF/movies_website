@@ -33,7 +33,7 @@ star_wars_empire = media.Movie("Empire Strikes Back",
 #print(avatar.storyline)
 #deadpool.show_trailer()
 #avatar.show_trailer()
-#ratatouille.show_trailer()
+#ratatouille.show_tra  iler()
 
 movies = [ jaws, avatar, deadpool , star_wars_empire]
 fresh_tomatoes.open_movies_page(movies)

@@ -3,7 +3,7 @@ import os
 import re
 
 
-# Styles and scripting for the page
+# Styles and     scripting for the page
 main_page_head = '''
 <!DOCTYPE html>
 <html lang="en">
